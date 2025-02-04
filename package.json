@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "homepage": "https://ahmed-saadi77.github.io/knader",
-
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
