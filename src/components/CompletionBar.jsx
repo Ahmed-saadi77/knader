@@ -11,7 +11,7 @@ const CompletionBar = () => {
 
     return (
         <div className="text-center my-8">
-            <h2 className="text-2xl font-bold md:text-white mb-4">Completion</h2>
+            <h2 className="text-2xl font-bold dark:md:text-white mb-4">Completion</h2>
             <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2">
                 <div
                     className="bg-blue-500 h-2 transition-all duration-500 ease-in-out rounded-full"
